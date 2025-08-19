@@ -1,7 +1,7 @@
 site:
-  title: The Ritual Place Docs
+  title: The Ritual Place
   url: https://docs.theritual.place
-  start_page: theritual_place_docs::index.adoc
+  start_page: immersive_incantations::index.adoc
 content:
   sources:
   - url: .

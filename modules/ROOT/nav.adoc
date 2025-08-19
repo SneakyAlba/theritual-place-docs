@@ -1,2 +1,4 @@
-.Test
-* xref:test.adoc[]
+* xref:index.adoc[Home]
+
+.Active Projects
+* xref:immersive_incantations:ROOT:index.adoc[Immersive Incantations!]

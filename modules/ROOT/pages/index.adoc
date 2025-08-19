@@ -1,3 +1,4 @@
 = Welcome!
+:page-role: home
 
 This is a new work-in-progress, more to come soon.

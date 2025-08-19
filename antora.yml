@@ -1,5 +1,5 @@
-name: theritual-place-docs
+name: theritual_place_docs
 version: ~
-title: The Ritual Place Docs
+title: The Ritual Place
 nav:
 - modules/ROOT/nav.adoc
