@@ -1,0 +1,15 @@
+site:
+  title: The Ritual Place Docs
+  url: https://docs.theritual.place
+  start_page: ritual_place_docs::index.adoc
+content:
+  sources:
+  - url: .
+    branches: HEAD
+  - url: https://github.com/SneakyAlba/immersive_incantations
+    branches: docs
+    start_path: docs
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
